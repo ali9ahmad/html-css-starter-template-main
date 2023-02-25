@@ -1,8 +1,8 @@
 /* ROOT */
 :root {
-  /* --header-bg-color: #fff; */
-  /* --main-bg-color: #fff; */
-  /* --main-text-color: #fff; */
+  --header-bg-color: #fff; /* CHANGE */
+  --main-bg-color: #fff; /* CHANGE */
+  --main-text-color: #fff; /* CHANGE */
 }
 
 html {
@@ -22,9 +22,9 @@ body {
   flex-direction: column;
   height: 100%;
   margin: 0;
-  font-family: "Arial", sans-serif;
-  font-weight: 400;
-  background-color: #fff;
+  font-family: "Arial", sans-serif; /* CHANGE */
+  font-weight: 400; /* CHANGE */
+  background-color: #fff; /* CHANGE */
 }
 
 img {
@@ -47,7 +47,7 @@ img {
 
 .container {
   width: 100%;
-  max-width: 1320px;
+  max-width: 1320px; /* CHANGE */
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -65,3 +65,7 @@ ul {
 a {
   text-decoration: none;
 }
+/* •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• */
+/************** MAIN STYLES START **************/
+
+/************** MAIN STYLES END **************/
